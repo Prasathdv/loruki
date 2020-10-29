@@ -56,6 +56,11 @@ code{
     border-radius: 3px;
 }
 
+/* Styling for netlify hidden class */
+.hidden{
+    visibility: hidden;
+    height: 0;
+}
 /* Navbar styling. This includes logo and Menu. This uses flex type styling */
 .navbar{
     background:var(--primary-color);
